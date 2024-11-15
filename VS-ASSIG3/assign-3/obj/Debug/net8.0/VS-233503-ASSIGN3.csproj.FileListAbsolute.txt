@@ -1,0 +1,14 @@
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\bin\Debug\net8.0\VS-233503-ASSIGN3.exe
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\bin\Debug\net8.0\VS-233503-ASSIGN3.deps.json
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\bin\Debug\net8.0\VS-233503-ASSIGN3.runtimeconfig.json
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\bin\Debug\net8.0\VS-233503-ASSIGN3.dll
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\bin\Debug\net8.0\VS-233503-ASSIGN3.pdb
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\VS-233503-ASSIGN3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\VS-233503-ASSIGN3.AssemblyInfoInputs.cache
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\VS-233503-ASSIGN3.AssemblyInfo.cs
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\VS-233503-ASSIGN3.csproj.CoreCompileInputs.cache
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\VS-233503-ASSIGN3.dll
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\refint\VS-233503-ASSIGN3.dll
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\VS-233503-ASSIGN3.pdb
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\VS-233503-ASSIGN3.genruntimeconfig.cache
+C:\Users\Arsal\source\repos\VS-233503-ASSIGN3\VS-233503-ASSIGN3\obj\Debug\net8.0\ref\VS-233503-ASSIGN3.dll

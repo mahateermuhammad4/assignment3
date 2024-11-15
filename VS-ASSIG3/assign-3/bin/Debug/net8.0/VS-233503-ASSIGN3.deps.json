@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VS-233503-ASSIGN3/1.0.0": {
+        "runtime": {
+          "VS-233503-ASSIGN3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VS-233503-ASSIGN3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

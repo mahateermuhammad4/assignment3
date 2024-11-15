@@ -1,0 +1,14 @@
+C:\Users\Arsal\source\repos\assign3\assign-3\bin\Debug\net8.0\assign3.exe
+C:\Users\Arsal\source\repos\assign3\assign-3\bin\Debug\net8.0\assign3.deps.json
+C:\Users\Arsal\source\repos\assign3\assign-3\bin\Debug\net8.0\assign3.runtimeconfig.json
+C:\Users\Arsal\source\repos\assign3\assign-3\bin\Debug\net8.0\assign3.dll
+C:\Users\Arsal\source\repos\assign3\assign-3\bin\Debug\net8.0\assign3.pdb
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\assign3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\assign3.AssemblyInfoInputs.cache
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\assign3.AssemblyInfo.cs
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\assign3.csproj.CoreCompileInputs.cache
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\assign3.dll
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\refint\assign3.dll
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\assign3.pdb
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\assign3.genruntimeconfig.cache
+C:\Users\Arsal\source\repos\assign3\assign-3\obj\Debug\net8.0\ref\assign3.dll
